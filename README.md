@@ -9,12 +9,12 @@ Once you've setup your database and your configuration (see below) is complete, 
 
 `python3 -m forwarder`
 
-or you can host and run this bot on [Heroku](https://github.com/keselekpermen69/Telegram_Forwarder#Host-on-Heroku)
+or you can host and run this bot on [Heroku](https://github.com/AmineSoukara/Telegram-Forwarder#Host-on-Heroku)
 
 
 ### Host on Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/KeselekPermen69/Telegram_Forwarder/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/AmineSoukara/Telegram-Forwarder/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 
 ## Setting Up The Bot (Read Before Trying To Use!):
